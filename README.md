@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4chandan
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...full stack
+- 🌱 I’m currently learning ...automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
